@@ -11,7 +11,7 @@ export default function Projects() {
 
   useEffect(() => {
     getRepoData();
-  }, []);
+  }, [getRepoData]);
 
   function getRepoData() {
     const client = new ApolloClient({
@@ -76,7 +76,7 @@ export default function Projects() {
       <Button
         text={"More Projects"}
         className="project-button"
-        href="https://github.com/ashutosh1919"
+        href="https://github.com/pandyamarut"
         newTab={true}
       />
     </div>
