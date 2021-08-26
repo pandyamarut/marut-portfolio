@@ -13,7 +13,6 @@ const seo = {
   og: {
     title: "Marut Pandya website",
     type: "website",
-    // url: "http://ashutoshhathidara.com/",
   },
 };
 
