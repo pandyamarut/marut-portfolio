@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/marut-portfolio/static/css/main.3a38e7e9.chunk.css",
+    "main.js": "/marut-portfolio/static/js/main.afdbab04.chunk.js",
+    "main.js.map": "/marut-portfolio/static/js/main.afdbab04.chunk.js.map",
+    "runtime-main.js": "/marut-portfolio/static/js/runtime-main.abe08c43.js",
+    "runtime-main.js.map": "/marut-portfolio/static/js/runtime-main.abe08c43.js.map",
+    "static/js/2.587fe5bb.chunk.js": "/marut-portfolio/static/js/2.587fe5bb.chunk.js",
+    "static/js/2.587fe5bb.chunk.js.map": "/marut-portfolio/static/js/2.587fe5bb.chunk.js.map",
+    "index.html": "/marut-portfolio/index.html",
+    "precache-manifest.7b55833829a7b0f01aaa8c82c1424dc3.js": "/marut-portfolio/precache-manifest.7b55833829a7b0f01aaa8c82c1424dc3.js",
+    "service-worker.js": "/marut-portfolio/service-worker.js",
+    "static/css/main.3a38e7e9.chunk.css.map": "/marut-portfolio/static/css/main.3a38e7e9.chunk.css.map",
+    "static/media/index.css": "/marut-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/all.css": "/marut-portfolio/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abe08c43.js",
+    "static/js/2.587fe5bb.chunk.js",
+    "static/css/main.3a38e7e9.chunk.css",
+    "static/js/main.afdbab04.chunk.js"
+  ]
+}
