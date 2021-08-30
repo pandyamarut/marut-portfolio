@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/marut-portfolio/static/css/main.3a38e7e9.chunk.css",
-    "main.js": "/marut-portfolio/static/js/main.fc67f97b.chunk.js",
-    "main.js.map": "/marut-portfolio/static/js/main.fc67f97b.chunk.js.map",
+    "main.css": "/marut-portfolio/static/css/main.a0cec81f.chunk.css",
+    "main.js": "/marut-portfolio/static/js/main.e8d03292.chunk.js",
+    "main.js.map": "/marut-portfolio/static/js/main.e8d03292.chunk.js.map",
     "runtime-main.js": "/marut-portfolio/static/js/runtime-main.abe08c43.js",
     "runtime-main.js.map": "/marut-portfolio/static/js/runtime-main.abe08c43.js.map",
     "static/js/2.587fe5bb.chunk.js": "/marut-portfolio/static/js/2.587fe5bb.chunk.js",
     "static/js/2.587fe5bb.chunk.js.map": "/marut-portfolio/static/js/2.587fe5bb.chunk.js.map",
     "index.html": "/marut-portfolio/index.html",
-    "precache-manifest.f4245976b71bc56713a6b3c6708fd4c9.js": "/marut-portfolio/precache-manifest.f4245976b71bc56713a6b3c6708fd4c9.js",
+    "precache-manifest.5b5888d6c43965f4e897a468377ee8dd.js": "/marut-portfolio/precache-manifest.5b5888d6c43965f4e897a468377ee8dd.js",
     "service-worker.js": "/marut-portfolio/service-worker.js",
-    "static/css/main.3a38e7e9.chunk.css.map": "/marut-portfolio/static/css/main.3a38e7e9.chunk.css.map",
+    "static/css/main.a0cec81f.chunk.css.map": "/marut-portfolio/static/css/main.a0cec81f.chunk.css.map",
     "static/media/index.css": "/marut-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/all.css": "/marut-portfolio/static/media/fa-solid-900.c2801fb4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.abe08c43.js",
     "static/js/2.587fe5bb.chunk.js",
-    "static/css/main.3a38e7e9.chunk.css",
-    "static/js/main.fc67f97b.chunk.js"
+    "static/css/main.a0cec81f.chunk.css",
+    "static/js/main.e8d03292.chunk.js"
   ]
 }
